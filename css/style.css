@@ -1,1 +1,26 @@
 
+/* ─── Body defaults ─────────── */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background-color: #f9f9f9;
+  color: #333333;
+}
+
+/* ─── Navigation bar ─────────── */
+nav {
+  background-color: #1F3864;
+  padding: 14px 20px;
+}
+nav a {
+  color: white;
+  text-decoration: none;
+  margin-right: 18px;
+}
+nav a:hover {
+  color: #FFC000;
+}
+
+/* ─── Headings ───────────────── */
+h1 { color: #1F3864; }
+h2 { color: #2E74B5; }
